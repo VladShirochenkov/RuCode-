@@ -4,7 +4,7 @@
 ### Файлы:
 train.csv - обучающая выборка;
 public_test.csv - тестовая выборка;
-public_sample_submission_seed_0.csv - пример предсказаний.
+public_sample_submission_seed_0.csv - предсказания.
 
 ### Метрика
 MAPE.
