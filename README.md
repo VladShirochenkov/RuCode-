@@ -14,4 +14,4 @@ MAPE.
 Файл .csv с 2 колонками: id, Цена. В первой строке указаны соответствующие заголовки, в остальных строках находятся полученные данные.
 
 ### Используемые инструменты
-numpy, pandas, matplotlib, seaborn, sklearn, scipy, GradientBoostingRegressor, LGBMRegressor, XGBRegressor, CatBoostRegressor, StackingCVRegressor
+numpy, pandas, matplotlib, seaborn, sklearn, scipy, hyperopt, GradientBoostingRegressor, LGBMRegressor, XGBRegressor, CatBoostRegressor, StackingCVRegressor
